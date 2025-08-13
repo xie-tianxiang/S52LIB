@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/MAP_SDK/ToDo/build/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/gdal/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/gl_headers/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/geoprim/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/iso8211/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/pugixml/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/libtess2/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/s57-charts/cmake_install.cmake",
+		"D:/MAP_SDK/ToDo/build/libs/s52plib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

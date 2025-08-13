@@ -1,0 +1,2 @@
+D:\SOFTWARES\msys64\ucrt64\bin\ar.exe qc libGEOPRIM.a CMakeFiles/GEOPRIM.dir/src/bbox.cpp.obj CMakeFiles/GEOPRIM.dir/src/LLRegion.cpp.obj CMakeFiles/GEOPRIM.dir/src/line_clip.cpp.obj CMakeFiles/GEOPRIM.dir/src/poly_math.cpp.obj CMakeFiles/GEOPRIM.dir/src/LOD_reduce.cpp.obj
+D:\SOFTWARES\msys64\ucrt64\bin\ranlib.exe libGEOPRIM.a

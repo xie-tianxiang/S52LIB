@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libOCPN_PUGIXML.a"
+)

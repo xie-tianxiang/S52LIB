@@ -1,0 +1,2 @@
+D:\SOFTWARES\msys64\ucrt64\bin\ar.exe qc libTESS2.a CMakeFiles/TESS2.dir/Source/bucketalloc.c.obj CMakeFiles/TESS2.dir/Source/dict.c.obj CMakeFiles/TESS2.dir/Source/geom.c.obj CMakeFiles/TESS2.dir/Source/mesh.c.obj CMakeFiles/TESS2.dir/Source/priorityq.c.obj CMakeFiles/TESS2.dir/Source/sweep.c.obj CMakeFiles/TESS2.dir/Source/tess.c.obj CMakeFiles/TESS2.dir/Source/Striper.cpp.obj CMakeFiles/TESS2.dir/Source/CustomArray.cpp.obj CMakeFiles/TESS2.dir/Source/Adjacency.cpp.obj CMakeFiles/TESS2.dir/Source/RevisitedRadix.cpp.obj
+D:\SOFTWARES\msys64\ucrt64\bin\ranlib.exe libTESS2.a

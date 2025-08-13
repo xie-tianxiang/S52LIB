@@ -1,0 +1,21 @@
+{
+    "cmake.sourceDirectory": "D:/MAP_SDK/ToDo",
+    //"cmake.buildDirectory": "${workspaceFolder}/build"  // 构建目录可保持默认或自定义
+    
+    "terminal.integrated.profiles.windows": {
+        "MSYS2 UCRT64": {
+            "path": "D:\\SOFTWARES\\msys64\\msys2_shell.cmd",
+            "args": ["-defterm", "-here", "-ucrt64"]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "MSYS2 UCRT64",
+    
+    // "cmake.preferredGenerators": ["MinGW Makefiles"],
+    // "cmake.configureEnvironment": {
+    // "PATH": "D:/SOFTWARES/msys64/ucrt64/bin;${env:PATH}"
+    // },
+    // "cmake.buildEnvironment": {
+    // "PATH": "D:/SOFTWARES/msys64/ucrt64/bin;${env:PATH}"
+//   }
+
+}

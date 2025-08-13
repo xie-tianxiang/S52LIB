@@ -1,0 +1,265 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "libs/gdal",
+					"jsonFile" : "directory-libs.gdal-Debug-29e9c7c6d1575b0472fc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/gdal",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "libs/gl_headers",
+					"jsonFile" : "directory-libs.gl_headers-Debug-6c4d7f231e4c646b9e2b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/gl_headers"
+				},
+				{
+					"build" : "libs/geoprim",
+					"jsonFile" : "directory-libs.geoprim-Debug-f5e89dc01ef7602ab636.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/geoprim",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "libs/iso8211",
+					"jsonFile" : "directory-libs.iso8211-Debug-0d1d2459520bab0a7161.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/iso8211",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "libs/pugixml",
+					"jsonFile" : "directory-libs.pugixml-Debug-cdce94058f0f54bef755.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/pugixml",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "libs/libtess2",
+					"jsonFile" : "directory-libs.libtess2-Debug-c24eae85100230659d19.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "libs/libtess2",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "libs/s57-charts",
+					"jsonFile" : "directory-libs.s57-charts-Debug-03cfcabaa54a8aff1f34.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/s57-charts",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "libs/s52plib",
+					"jsonFile" : "directory-libs.s52plib-Debug-428d35890d8bc1014a76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/s52plib",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						7,
+						8
+					],
+					"name" : "ToDo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "libtess2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "GDAL::@151ab30805abf8ea4eee",
+					"jsonFile" : "target-GDAL-Debug-0cddeb0a2eedee7baf62.json",
+					"name" : "GDAL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "GEOPRIM::@a18a827648746b83bd70",
+					"jsonFile" : "target-GEOPRIM-Debug-425c9991c6e4e12496b2.json",
+					"name" : "GEOPRIM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ISO8211::@c795802b3b980bccebe1",
+					"jsonFile" : "target-ISO8211-Debug-d91a3b68c4fb65bcd95e.json",
+					"name" : "ISO8211",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "OCPN_PUGIXML::@138ca6fe4c2f69880e2e",
+					"jsonFile" : "target-OCPN_PUGIXML-Debug-113f4717277cfb85b4d3.json",
+					"name" : "OCPN_PUGIXML",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "S52PLIB::@0b8be5cf1076bc727c27",
+					"jsonFile" : "target-S52PLIB-Debug-07d37065abd126457c39.json",
+					"name" : "S52PLIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "TESS2::@c8ef99e4b02739d54eec",
+					"jsonFile" : "target-TESS2-Debug-c141f2ae429a3efed9c1.json",
+					"name" : "TESS2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "_S57_CHARTS::@8a51ea06456574983ccf",
+					"jsonFile" : "target-_S57_CHARTS-Debug-ec0998497204f2bf5ea6.json",
+					"name" : "_S57_CHARTS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_executable::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_executable-Debug-468aba87c1b2d6c41344.json",
+					"name" : "test_executable",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MAP_SDK/ToDo/build",
+		"source" : "D:/MAP_SDK/ToDo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

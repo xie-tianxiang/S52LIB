@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libS52PLIB.a"
+)

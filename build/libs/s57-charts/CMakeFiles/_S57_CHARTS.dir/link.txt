@@ -1,0 +1,2 @@
+D:\SOFTWARES\msys64\ucrt64\bin\ar.exe qc lib_S57_CHARTS.a CMakeFiles/_S57_CHARTS.dir/src/ogrs57datasource.cpp.obj CMakeFiles/_S57_CHARTS.dir/src/ogrs57layer.cpp.obj CMakeFiles/_S57_CHARTS.dir/src/s57classregistrar.cpp.obj CMakeFiles/_S57_CHARTS.dir/src/s57featuredefns.cpp.obj CMakeFiles/_S57_CHARTS.dir/src/s57reader.cpp.obj CMakeFiles/_S57_CHARTS.dir/src/s57registrar_mgr.cpp.obj
+D:\SOFTWARES\msys64\ucrt64\bin\ranlib.exe lib_S57_CHARTS.a

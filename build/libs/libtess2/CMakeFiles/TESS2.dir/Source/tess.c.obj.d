@@ -1,0 +1,37 @@
+libs/libtess2/CMakeFiles/TESS2.dir/Source/tess.c.obj: \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\tess.c \
+ D:/SOFTWARES/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/stddef.h \
+ D:/SOFTWARES/msys64/ucrt64/include/stddef.h \
+ D:/SOFTWARES/msys64/ucrt64/include/crtdefs.h \
+ D:/SOFTWARES/msys64/ucrt64/include/corecrt.h \
+ D:/SOFTWARES/msys64/ucrt64/include/_mingw.h \
+ D:/SOFTWARES/msys64/ucrt64/include/_mingw_mac.h \
+ D:/SOFTWARES/msys64/ucrt64/include/_mingw_secapi.h \
+ D:/SOFTWARES/msys64/ucrt64/include/vadefs.h \
+ D:/SOFTWARES/msys64/ucrt64/include/sdks/_mingw_ddk.h \
+ D:/SOFTWARES/msys64/ucrt64/include/assert.h \
+ D:/SOFTWARES/msys64/ucrt64/include/setjmp.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\bucketalloc.h \
+ D:/MAP_SDK/ToDo/libs/libtess2/Include/tesselator.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\tess.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\mesh.h \
+ D:/MAP_SDK/ToDo/libs/libtess2/Include/tesselator.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\dict.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\priorityq.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\sweep.h \
+ D:\MAP_SDK\ToDo\libs\libtess2\Source\geom.h \
+ D:/SOFTWARES/msys64/ucrt64/include/math.h \
+ D:/SOFTWARES/msys64/ucrt64/include/stdio.h \
+ D:/SOFTWARES/msys64/ucrt64/include/corecrt_stdio_config.h \
+ D:/SOFTWARES/msys64/ucrt64/include/_mingw_off_t.h \
+ D:/SOFTWARES/msys64/ucrt64/include/swprintf.inl \
+ D:/SOFTWARES/msys64/ucrt64/include/sec_api/stdio_s.h \
+ D:/SOFTWARES/msys64/ucrt64/include/stdlib.h \
+ D:/SOFTWARES/msys64/ucrt64/include/corecrt_wstdlib.h \
+ D:/SOFTWARES/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/limits.h \
+ D:/SOFTWARES/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/syslimits.h \
+ D:/SOFTWARES/msys64/ucrt64/include/limits.h \
+ D:/SOFTWARES/msys64/ucrt64/include/sec_api/stdlib_s.h \
+ D:/SOFTWARES/msys64/ucrt64/include/malloc.h \
+ D:/SOFTWARES/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.1.0/include/mm_malloc.h \
+ D:/SOFTWARES/msys64/ucrt64/include/errno.h

@@ -1,0 +1,404 @@
+[
+{
+  "directory": "D:/MAP_SDK/ToDo/build",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/test_executable.dir/includes_CXX.rsp -g -o CMakeFiles\\test_executable.dir\\src\\s57viewr.cpp.obj -c D:\\MAP_SDK\\ToDo\\src\\s57viewr.cpp",
+  "file": "D:/MAP_SDK/ToDo/src/s57viewr.cpp",
+  "output": "CMakeFiles/test_executable.dir/src/s57viewr.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/test_executable.dir/includes_CXX.rsp -g -o CMakeFiles\\test_executable.dir\\src\\test.cpp.obj -c D:\\MAP_SDK\\ToDo\\src\\test.cpp",
+  "file": "D:/MAP_SDK/ToDo/src/test.cpp",
+  "output": "CMakeFiles/test_executable.dir/src/test.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_conv.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_conv.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_conv.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_conv.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_csv.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_csv.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_csv.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_csv.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_error.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_error.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_error.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_error.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_findfile.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_findfile.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_findfile.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_findfile.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_minixml.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_minixml.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_minixml.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_minixml.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_path.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_path.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_path.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_path.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_string.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_string.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_string.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_string.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cpl_vsisimple.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cpl_vsisimple.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cpl_vsisimple.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cpl_vsisimple.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\cplgetsymbol.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\cplgetsymbol.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/cplgetsymbol.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/cplgetsymbol.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ograssemblepolygon.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ograssemblepolygon.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ograssemblepolygon.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ograssemblepolygon.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrcurve.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrcurve.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrcurve.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrcurve.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrfeature.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrfeature.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrfeature.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrfeature.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrfeaturedefn.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrfeaturedefn.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrfeaturedefn.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrfeaturedefn.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrfielddefn.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrfielddefn.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrfielddefn.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrfielddefn.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrgeometry.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrgeometry.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrgeometry.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrgeometry.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrgeometrycollection.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrgeometrycollection.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrgeometrycollection.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrgeometrycollection.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrgeometryfactory.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrgeometryfactory.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrgeometryfactory.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrgeometryfactory.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrlinearring.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrlinearring.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrlinearring.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrlinearring.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrlinestring.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrlinestring.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrlinestring.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrlinestring.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrmultilinestring.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrmultilinestring.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrmultilinestring.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrmultilinestring.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrmultipoint.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrmultipoint.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrmultipoint.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrmultipoint.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrmultipolygon.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrmultipolygon.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrmultipolygon.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrmultipolygon.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrpoint.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrpoint.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrpoint.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrpoint.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrpolygon.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrpolygon.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrpolygon.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrpolygon.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrlayer.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrlayer.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrlayer.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrlayer.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\ogrutils.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\ogrutils.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/ogrutils.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/ogrutils.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/gdal",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GDAL.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GDAL.dir\\src\\gdal_misc.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\gdal\\src\\gdal_misc.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/gdal/src/gdal_misc.cpp",
+  "output": "libs/gdal/CMakeFiles/GDAL.dir/src/gdal_misc.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/geoprim",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GEOPRIM.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GEOPRIM.dir\\src\\bbox.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\geoprim\\src\\bbox.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/geoprim/src/bbox.cpp",
+  "output": "libs/geoprim/CMakeFiles/GEOPRIM.dir/src/bbox.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/geoprim",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GEOPRIM.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GEOPRIM.dir\\src\\LLRegion.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\geoprim\\src\\LLRegion.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/geoprim/src/LLRegion.cpp",
+  "output": "libs/geoprim/CMakeFiles/GEOPRIM.dir/src/LLRegion.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/geoprim",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GEOPRIM.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GEOPRIM.dir\\src\\line_clip.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\geoprim\\src\\line_clip.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/geoprim/src/line_clip.cpp",
+  "output": "libs/geoprim/CMakeFiles/GEOPRIM.dir/src/line_clip.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/geoprim",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GEOPRIM.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GEOPRIM.dir\\src\\poly_math.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\geoprim\\src\\poly_math.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/geoprim/src/poly_math.cpp",
+  "output": "libs/geoprim/CMakeFiles/GEOPRIM.dir/src/poly_math.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/geoprim",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/GEOPRIM.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\GEOPRIM.dir\\src\\LOD_reduce.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\geoprim\\src\\LOD_reduce.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/geoprim/src/LOD_reduce.cpp",
+  "output": "libs/geoprim/CMakeFiles/GEOPRIM.dir/src/LOD_reduce.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddffield.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddffield.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddffield.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddffield.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddffielddefn.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddffielddefn.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddffielddefn.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddffielddefn.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddfmodule.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddfmodule.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddfmodule.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddfmodule.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddfrecord.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddfrecord.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddfrecord.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddfrecord.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddfrecordindex.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddfrecordindex.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddfrecordindex.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddfrecordindex.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddfsubfielddefn.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddfsubfielddefn.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddfsubfielddefn.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddfsubfielddefn.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/iso8211",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/ISO8211.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\ISO8211.dir\\src\\ddfutils.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\iso8211\\src\\ddfutils.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/iso8211/src/ddfutils.cpp",
+  "output": "libs/iso8211/CMakeFiles/ISO8211.dir/src/ddfutils.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/pugixml",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/OCPN_PUGIXML.dir/includes_CXX.rsp -g -o CMakeFiles\\OCPN_PUGIXML.dir\\pugixml.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\pugixml\\pugixml.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/pugixml/pugixml.cpp",
+  "output": "libs/pugixml/CMakeFiles/OCPN_PUGIXML.dir/pugixml.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\bucketalloc.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\bucketalloc.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/bucketalloc.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/bucketalloc.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\dict.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\dict.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/dict.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/dict.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\geom.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\geom.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/geom.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/geom.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\mesh.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\mesh.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/mesh.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/mesh.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\priorityq.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\priorityq.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/priorityq.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/priorityq.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\sweep.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\sweep.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/sweep.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/sweep.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\gcc.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_C.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\tess.c.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\tess.c",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/tess.c",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/tess.c.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_CXX.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\Striper.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\Striper.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/Striper.cpp",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/Striper.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_CXX.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\CustomArray.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\CustomArray.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/CustomArray.cpp",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/CustomArray.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_CXX.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\Adjacency.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\Adjacency.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/Adjacency.cpp",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/Adjacency.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/libtess2",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/TESS2.dir/includes_CXX.rsp -g -Wno-unknown-pragmas -fvisibility=default -fPIC -o CMakeFiles\\TESS2.dir\\Source\\RevisitedRadix.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\libtess2\\Source\\RevisitedRadix.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/libtess2/Source/RevisitedRadix.cpp",
+  "output": "libs/libtess2/CMakeFiles/TESS2.dir/Source/RevisitedRadix.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s57-charts",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/_S57_CHARTS.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\_S57_CHARTS.dir\\src\\ogrs57datasource.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s57-charts\\src\\ogrs57datasource.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s57-charts/src/ogrs57datasource.cpp",
+  "output": "libs/s57-charts/CMakeFiles/_S57_CHARTS.dir/src/ogrs57datasource.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s57-charts",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/_S57_CHARTS.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\_S57_CHARTS.dir\\src\\ogrs57layer.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s57-charts\\src\\ogrs57layer.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s57-charts/src/ogrs57layer.cpp",
+  "output": "libs/s57-charts/CMakeFiles/_S57_CHARTS.dir/src/ogrs57layer.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s57-charts",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/_S57_CHARTS.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\_S57_CHARTS.dir\\src\\s57classregistrar.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s57-charts\\src\\s57classregistrar.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s57-charts/src/s57classregistrar.cpp",
+  "output": "libs/s57-charts/CMakeFiles/_S57_CHARTS.dir/src/s57classregistrar.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s57-charts",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/_S57_CHARTS.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\_S57_CHARTS.dir\\src\\s57featuredefns.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s57-charts\\src\\s57featuredefns.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s57-charts/src/s57featuredefns.cpp",
+  "output": "libs/s57-charts/CMakeFiles/_S57_CHARTS.dir/src/s57featuredefns.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s57-charts",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/_S57_CHARTS.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\_S57_CHARTS.dir\\src\\s57reader.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s57-charts\\src\\s57reader.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s57-charts/src/s57reader.cpp",
+  "output": "libs/s57-charts/CMakeFiles/_S57_CHARTS.dir/src/s57reader.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s57-charts",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/_S57_CHARTS.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\_S57_CHARTS.dir\\src\\s57registrar_mgr.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s57-charts\\src\\s57registrar_mgr.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s57-charts/src/s57registrar_mgr.cpp",
+  "output": "libs/s57-charts/CMakeFiles/_S57_CHARTS.dir/src/s57registrar_mgr.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\chartsymbols.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\chartsymbols.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/chartsymbols.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/chartsymbols.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\s52plib.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\s52plib.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/s52plib.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/s52plib.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\s52cnsy.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\s52cnsy.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/s52cnsy.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/s52cnsy.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\s52utils.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\s52utils.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/s52utils.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/s52utils.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\s52shaders.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\s52shaders.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/s52shaders.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/s52shaders.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\TexFont.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\TexFont.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/TexFont.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/TexFont.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\DepthFont.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\DepthFont.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/DepthFont.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/DepthFont.cpp.obj"
+},
+{
+  "directory": "D:/MAP_SDK/ToDo/build/libs/s52plib",
+  "command": "D:\\SOFTWARES\\msys64\\ucrt64\\bin\\g++.exe -DWXUSINGDLL -D__WXMSW__ -DwxUSE_STD_CONTAINERS=0 -DwxUSE_STL=0 @CMakeFiles/S52PLIB.dir/includes_CXX.rsp -g -fvisibility=default -fPIC -o CMakeFiles\\S52PLIB.dir\\src\\mygeom.cpp.obj -c D:\\MAP_SDK\\ToDo\\libs\\s52plib\\src\\mygeom.cpp",
+  "file": "D:/MAP_SDK/ToDo/libs/s52plib/src/mygeom.cpp",
+  "output": "libs/s52plib/CMakeFiles/S52PLIB.dir/src/mygeom.cpp.obj"
+}
+]

@@ -1,0 +1,2 @@
+D:\SOFTWARES\msys64\ucrt64\bin\ar.exe qc libOCPN_PUGIXML.a CMakeFiles/OCPN_PUGIXML.dir/pugixml.cpp.obj
+D:\SOFTWARES\msys64\ucrt64\bin\ranlib.exe libOCPN_PUGIXML.a

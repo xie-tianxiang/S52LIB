@@ -1,0 +1,1 @@
+-ID:/MAP_SDK/ToDo/libs/s52plib/src -ID:/MAP_SDK/ToDo/libs/geoprim/src -ID:/MAP_SDK/ToDo/libs/gl_headers/windows -ID:/MAP_SDK/ToDo/libs/pugixml -ID:/MAP_SDK/ToDo/libs/gdal/include -ID:/MAP_SDK/ToDo/libs/gdal/include/gdal -ID:/MAP_SDK/ToDo/libs/libtess2/Include -isystem "D:/SOFTWARES/msys64/ucrt64/lib/wx/include/msw-unicode-3.2" -isystem "D:/SOFTWARES/msys64/ucrt64/include/wx-3.2"

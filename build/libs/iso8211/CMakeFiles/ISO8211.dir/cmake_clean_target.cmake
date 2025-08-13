@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libISO8211.a"
+)

@@ -1,0 +1,2 @@
+D:\SOFTWARES\msys64\ucrt64\bin\ar.exe qc libS52PLIB.a CMakeFiles/S52PLIB.dir/src/chartsymbols.cpp.obj CMakeFiles/S52PLIB.dir/src/s52plib.cpp.obj CMakeFiles/S52PLIB.dir/src/s52cnsy.cpp.obj CMakeFiles/S52PLIB.dir/src/s52utils.cpp.obj CMakeFiles/S52PLIB.dir/src/s52shaders.cpp.obj CMakeFiles/S52PLIB.dir/src/TexFont.cpp.obj CMakeFiles/S52PLIB.dir/src/DepthFont.cpp.obj CMakeFiles/S52PLIB.dir/src/mygeom.cpp.obj
+D:\SOFTWARES\msys64\ucrt64\bin\ranlib.exe libS52PLIB.a

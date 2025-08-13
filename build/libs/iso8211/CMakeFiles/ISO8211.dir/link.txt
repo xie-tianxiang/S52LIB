@@ -1,0 +1,2 @@
+D:\SOFTWARES\msys64\ucrt64\bin\ar.exe qc libISO8211.a CMakeFiles/ISO8211.dir/src/ddffield.cpp.obj CMakeFiles/ISO8211.dir/src/ddffielddefn.cpp.obj CMakeFiles/ISO8211.dir/src/ddfmodule.cpp.obj CMakeFiles/ISO8211.dir/src/ddfrecord.cpp.obj CMakeFiles/ISO8211.dir/src/ddfrecordindex.cpp.obj CMakeFiles/ISO8211.dir/src/ddfsubfielddefn.cpp.obj CMakeFiles/ISO8211.dir/src/ddfutils.cpp.obj
+D:\SOFTWARES\msys64\ucrt64\bin\ranlib.exe libISO8211.a

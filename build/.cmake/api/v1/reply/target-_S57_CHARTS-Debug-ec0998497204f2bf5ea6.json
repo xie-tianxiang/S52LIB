@@ -1,0 +1,286 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libs/s57-charts/lib_S57_CHARTS.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_compile_options",
+			"set_property",
+			"INCLUDE",
+			"SimpleWxConfig",
+			"add_definitions",
+			"target_include_directories",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"libs/s57-charts/CMakeLists.txt",
+			"D:/SOFTWARES/msys64/ucrt64/share/cmake/Modules/UsewxWidgets.cmake",
+			"cmake/SimpleWxConfig.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 48,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 27,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 39,
+				"parent" : 5
+			},
+			{
+				"file" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 7
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 13,
+				"parent" : 5
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 5
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 47,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 7
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fvisibility=default"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "WXUSINGDLL"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "__WXMSW__"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "wxUSE_STD_CONTAINERS=0"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "wxUSE_STL=0"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 11,
+					"path" : "D:/MAP_SDK/ToDo/libs/s57-charts/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/MAP_SDK/ToDo/libs/iso8211/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/MAP_SDK/ToDo/libs/gdal/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/MAP_SDK/ToDo/libs/gdal/include/gdal"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "D:/SOFTWARES/msys64/ucrt64/lib/wx/include/msw-unicode-3.2"
+				},
+				{
+					"backtrace" : 12,
+					"isSystem" : true,
+					"path" : "D:/SOFTWARES/msys64/ucrt64/include/wx-3.2"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "GDAL::@151ab30805abf8ea4eee"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ISO8211::@c795802b3b980bccebe1"
+		}
+	],
+	"id" : "_S57_CHARTS::@8a51ea06456574983ccf",
+	"name" : "_S57_CHARTS",
+	"nameOnDisk" : "lib_S57_CHARTS.a",
+	"paths" : 
+	{
+		"build" : "libs/s57-charts",
+		"source" : "libs/s57-charts"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/s57-charts/src/ogrs57datasource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/s57-charts/src/ogrs57layer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/s57-charts/src/s57classregistrar.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/s57-charts/src/s57featuredefns.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/s57-charts/src/s57reader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/s57-charts/src/s57registrar_mgr.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/s57-charts/include/ogr_s57.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/s57-charts/include/s57class_registrar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/s57-charts/include/s57.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/s57-charts/include/s57registrar_mgr.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
